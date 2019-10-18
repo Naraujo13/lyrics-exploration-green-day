@@ -1,8 +1,5 @@
-# 🎙️ Lyrics Exploration: Lorde
+# 🎙️ Lyrics Exploration: Green Day
 
 
 ## About
-Lorde is a popsinger and writer from New Zealand. As a big fan of her work, and as a data scientist, I wanted to test some of NLP techniques with her lyrics. The results can be fount here.
-
-## Results
-The visualization of the results can be found [here](https://matheusfreitag.github.io/lyrics-exploration-lorde/)
+Green Day is a pop punk american band. As a big fan of their work, and as a data scientist, I wanted to test some of NLP techniques with their lyrics. 
